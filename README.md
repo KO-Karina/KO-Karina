@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KO-Karina
 - 👀 I’m interested in ... Python
-- 🌱 I’m currently learning ... R, Visio, SQL, PowerBI
+- 🌱 I’m currently learning ... R, Visio, SQL, PowerBI, SPSS
 - 💞️ I’m looking to collaborate on ... sales projects for data transformation and analytics
 - 📫 How to reach me ... E-mail: kaaguilar@coca-cola.com
 
